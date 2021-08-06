@@ -2,4 +2,4 @@
 - 👀 I’m interested in audio and music production. 
 - 🌱 I’m currently learning how to program in C, C++ and python with the cs50 course in edx.org.
 - 💞️ I’m looking to collaborate on audio signal processors or sound implementation proyects. 
-- 📫 How to reach me at Discord Account: ReputationExisting#4767.
+- 📫 How to reach me at Discord Account: ReputationExisting#6565.
